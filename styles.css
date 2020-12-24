@@ -80,17 +80,6 @@ body {
     text-align: center;
     padding-left: 100px;
     padding-right: 100px;
-  }
-  
-  .img-text-wrapper .subtitle {
-    transition: 1s;
-    color: transparent;
-  }
-  
-  .image-blur {
-    transition: 1s;
-    filter: brightness(10%);
-  }
   
   .img-text-wrapper:.subtitle {
     color: lightseagreen;
